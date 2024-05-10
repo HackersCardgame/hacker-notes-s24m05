@@ -49,7 +49,23 @@ Softare / Hardware backdoors indizien auswerten
 -> dann wird marc jrl andolrt schädelverletzungen zugefügt [3] 
 
 [3] ab hier ist es wirklcih unterlassene hilfeleistung der universität basel
+[3] cAPI::SuizidTrigger 1
+[3] cAPI::SuizidTrigger 2
+[3] cAPI::SuizidTrigger 3
+[3] cAPI::SuizidTrigger 4
+[3] cAPI::SuizidTrigger 5
+[3] cAPI::SuizidTrigger 6
+[3] cAPI::SuizidTrigger 7
 
+urs blum: psychologische verstümmelung beihjilfe durch die Psychiatrie Königsfelnden
+
+[3] cAPI::SuizidTrigger 1
+[3] cAPI::SuizidTrigger 2
+[3] cAPI::SuizidTrigger 3
+[3] cAPI::SuizidTrigger 4
+[3] cAPI::SuizidTrigger 5
+[3] cAPI::SuizidTrigger 6
+[3] cAPI::SuizidTrigger 7
     ==============================
 -=[ Fri May 10 12:06:57 PM CEST 2024 ]=-
     ==============================

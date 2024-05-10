@@ -31,4 +31,9 @@ Es wäre dann nicht IntelCPU selber, sondern der Chip-Satz (meist auch von Intel
 -=[ Fri May 10 12:20:53 PM CEST 2024 ]=-
     ==============================
 
+und das mit dem IntelME ist ja bekannt, aber scheinbar soll niemand wissen, dass die Zürich Verischrung da die Schlüssel für die Backdoors hat
+
+    ==============================
+-=[ Fri May 10 12:28:03 PM CEST 2024 ]=-
+    ==============================
 

@@ -49,7 +49,9 @@ Ziel Parameter einer solcher KI
 Profiteure einer solchen KI
 Mini-Max Algorithmus
 
-Nash Gleichgewicht bei mehreren solcher KI's => Bibel winns, weil kooperativ nicht kompettitiv, weniger ressourcen verbrauch, mehr sicherheit
+Nash Gleichgewicht bei mehreren solcher KI's
+ => Bibel winns, weil kooperativ nicht kompettitiv, weniger ressourcen verbrauch, mehr sicherheit
+    bzw. alle religionen die kooperativ sind
 
 
     ==============================

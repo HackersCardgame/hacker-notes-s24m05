@@ -27,3 +27,8 @@ also ist VERMUTLICH auf der North/South Bridge und/oder im Betriebssystem, allen
 
 Es wäre dann nicht IntelCPU selber, sondern der Chip-Satz (meist auch von Intel)
 
+    ==============================
+-=[ Fri May 10 12:20:53 PM CEST 2024 ]=-
+    ==============================
+
+

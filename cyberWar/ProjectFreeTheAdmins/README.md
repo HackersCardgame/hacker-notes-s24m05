@@ -3,6 +3,9 @@
 
 Normally "Furs" in German means the coat of a inocennt killed animal
 
+In german nobody would call a kids toy "FurReal" like US Company Hasbro. Fur (=Pelz) is normally linked with massacre of animals for having the fur
+
+
 so blackhats in a bluecoat would be somehow the same
 
 Some Admins in Telegram groups are already in somes sort of a allegedly global largescale blackmaling system, maybe even innocently

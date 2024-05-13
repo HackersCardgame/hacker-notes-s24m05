@@ -111,5 +111,23 @@ Dann das wurde auch mehrfach gelöscht...
 -=[ Mon May 13 08:06:22 AM CEST 2024 ]=-
     ==============================
 
+    ==============================
+-=[ Mon May 13 08:17:40 AM CEST 2024 ]=-
+    ==============================
 
+Unaufgeforderte Übermittlung:
+
+Eine der Lieblings-Tötungsarten [1] von Dr. Hansjürg Pfisterer sei
+
+* ALS
+* Parkinson
+* Multiple Sklerose
+
+Medizin-Zeugs und Bio-Zeugs bin ich super schlecht, aber grundsätzlich wäre das vermutlich genau das Spezialfachgebiet von Pfisterers Frau der Myrtha Pfisterer
+
+[1] sed -i -e "s/Lieblings/Präferierten/g" ebd
+
+    ==============================
+-=[ Mon May 13 08:19:21 AM CEST 2024 ]=-
+    ==============================
 

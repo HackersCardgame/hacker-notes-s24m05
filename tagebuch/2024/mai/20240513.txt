@@ -96,6 +96,12 @@ da wäre einfach der entsprechende GPIO des kamera bedienfledes remote deaktivie
 
 dann auch die SD Carten zu sophisticated und immer der selbe fehler als ob das zufall wäre, schreibschutz auf dem adater zu mikro sd wäre nur einer der schreibschütze, aber es gibt VERMUTLIHC auch irgend einen remote zugang, um "qualitäts beweismittel sichreung" zu machen, also schreibschutz dass cih keine neue beweise fotographieren kann...
 
+DELETED und mehrfach verhindert dass ich das trotzdem protokolliere:
+
+als ich so zu mir sage: "hmmmm, immer der selbe Fehler bei den SD Karten" geht es plötzlich ... also leute mit zu vielen access codes, aber keine ahnung von technik oder fehlersuche oder malware analyse
+
+
+
     ==============================
 -=[ Mon May 13 07:59:33 AM CEST 2024 ]=-
     ==============================

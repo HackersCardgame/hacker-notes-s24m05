@@ -59,3 +59,41 @@ dann war vermutlcih die AVOR-Recognition-EEG-FTT bzw. die AVOR-sabotage software
 -=[ Thu May 16 10:29:54 AM CEST 2024 ]=-
     ==============================
 
+somit "rechenaufgabe" bzw. überlegungen und system-dynamics simulation:
+                                            ---------------------------
+
+Prämissen:
+
+p1: wenn sagen wir IRATEMONK zu einem derer wichtigen Schachzüge gehöhren würde (bzw. eine Schweizer Variante davon)
+
+p2: es weltweit hersteller von USB Sticks gibt
+
+p3: schon diese mit schreibschutz-Schalter sehr selten sind
+
+p4: ...
+
+p1 + p2 + p3 + p4 => p5
+
+wie gross ist die Chance, dass ...
+
+A) die Schweizer Armee es schafft dass man nur noch solche Sticks und datenträger bekommt, welche von der Armee sabotiert oder remote gelöscht werden können
+
+B) dass es internationale Militärs oder Waffenhersteller (eher so Cyber-Waffen) es schaffen, dass man keinen Datenträger mehr bekommt, wo die keine sabotage machen können
+
+    ==============================
+-=[ Thu May 16 10:34:58 AM CEST 2024 ]=-
+    ==============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+

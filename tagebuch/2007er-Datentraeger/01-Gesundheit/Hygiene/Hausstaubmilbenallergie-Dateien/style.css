@@ -1,0 +1,45 @@
+#text {
+	LEFT: 10px; POSITION: absolute; TOP: 150px
+}
+#back {
+	LEFT: 10px; POSITION: absolute; TOP: 0px
+}
+#uber {
+	LEFT: 48%; WIDTH: 200px; POSITION: absolute; TOP: 45px
+}
+H1 {
+	FONT-WEIGHT: 500; FONT-SIZE: 16pt; COLOR: #666699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H2 {
+	FONT-WEIGHT: 500; FONT-SIZE: 16pt; COLOR: #666699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-WEIGHT: 400; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+I {
+	FONT-WEIGHT: 600; COLOR: #666699; FONT-STYLE: normal
+}
+TD {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+UNKNOWN {
+	COLOR: #6666cc
+}
+TH {
+	FONT-SIZE: 18pt; COLOR: #666699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A:active {
+	FONT-SIZE: 10pt; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A:link {
+	FONT-SIZE: 10pt; COLOR: #666699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A:visited {
+	FONT-SIZE: 10pt; COLOR: #cc99cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+LI {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-WEIGHT: 200; FONT-SIZE: 16pt; COLOR: #666699; FONT-FAMILY: "Times New Roman", Times, serif
+}

@@ -83,6 +83,17 @@ Only in 02-Tagebuch/2001/November: 30.txt
 Only in ../2001/: Screenshot from 2024-04-29 00-32-18.png
 Only in ../2001/: Wordcount.txt
 
+    ==============================
+-=[ Sun May 19 06:04:03 AM CEST 2024 ]=-
+    ==============================
+
+further, there was a discussion with my imaginary friends who can provide the wirst photo of himself, i BET i won that: psycho.jpg (last git commit)
+
+    ==============================
+-=[ Sun May 19 06:04:44 AM CEST 2024 ]=-
+    ==============================
+
+
 
 
 

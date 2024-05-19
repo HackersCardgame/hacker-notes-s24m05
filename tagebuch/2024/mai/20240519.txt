@@ -205,3 +205,33 @@ marc@debian:~/hacker-notes-s24m05$ figlet ZEILEN 1 - 45
                                                             
 marc@debian:~/hacker-notes-s24m05$ 
 
+dass dann wieder weitere Drohungen über Neuralink oder was die mir auch immer verpasst haben übermittelt werden, und so habe ich auch versifft zu protokollieren
+
+
+KANN ES SEIN, dass die IRATEMONK Malware eine Funktion hat, dass wenn > 10 GB auf einen Datenträger geschrieben wird die Schreibgeschwindigkeit massiv gesenkt wird (Cache ist nur 2 GB gemäss /proc/meminfo) ... dann würde das Ding E.T. nach hause Telefonieren und die Zensur-Agenten aktivieren weil die dann wissen dass ich MÖGLICHERWEISE Backup mache von den Daten die den Herrn Urs Blum [1] die Zürich Versicherung und/oder die CH-Army (bzw. einfach einige Geisteskranke dort) mit den drei Morden bei [2] ABB CHFAC Altstetten ein die ca. 1 Jahr bevor ich dort gearbeitet habe als Snowboard Unfall getarnt wurden [4]
+
+
+Jak Shaving
+
+[1] [urs blum: fügt jetzt hier auch riela ein, urs blum, fügt den vornamen auch ein]
+
+[2] uzrs blum: wechselt das durch [3] morde und genozid
+
+[3] pfisterer: fügt "unspezifische" ein
+
+[4] urs blum: fügt ein dass philipp lüscher die 3 administratoren in die lavine gefürht hat
+
+
+blablabla, eigentlich sollte man 
+
+marc@debian:~/hacker-notes-s24m05$ figlet ZEILEN 1 - 45
+ __________ ___ _     _____ _   _   _           _  _  ____  
+|__  / ____|_ _| |   | ____| \ | | / |         | || || ___| 
+  / /|  _|  | || |   |  _| |  \| | | |  _____  | || ||___ \ 
+ / /_| |___ | || |___| |___| |\  | | | |_____| |__   _|__) |
+/____|_____|___|_____|_____|_| \_| |_|            |_||____/ 
+                                                            
+    ==============================
+-=[ Sun May 19 12:17:45 PM CEST 2024 ]=-
+    ==============================
+

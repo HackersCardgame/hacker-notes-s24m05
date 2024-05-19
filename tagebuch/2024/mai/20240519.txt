@@ -187,4 +187,21 @@ dann sind wir da wo wir immer sind wenn ich bewisen habe, dass ich nicht der tä
 -=[ Sun May 19 12:04:35 PM CEST 2024 ]=-
     ==============================
 
+Dann fällt mir auf, dass immer wenn ich schreibe
+
+marc@debian:~/hacker-notes-s24m05$ figlet Relevant :
+ ____      _                       _       
+|  _ \ ___| | _____   ____ _ _ __ | |_   _ 
+| |_) / _ \ |/ _ \ \ / / _` | '_ \| __| (_)
+|  _ <  __/ |  __/\ V / (_| | | | | |_   _ 
+|_| \_\___|_|\___| \_/ \__,_|_| |_|\__| (_)
+                                           
+marc@debian:~/hacker-notes-s24m05$ figlet ZEILEN 1 - 45
+ __________ ___ _     _____ _   _   _           _  _  ____  
+|__  / ____|_ _| |   | ____| \ | | / |         | || || ___| 
+  / /|  _|  | || |   |  _| |  \| | | |  _____  | || ||___ \ 
+ / /_| |___ | || |___| |___| |\  | | | |_____| |__   _|__) |
+/____|_____|___|_____|_____|_| \_| |_|            |_||____/ 
+                                                            
+marc@debian:~/hacker-notes-s24m05$ 
 

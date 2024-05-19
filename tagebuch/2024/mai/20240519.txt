@@ -42,3 +42,9 @@ dann da es ein über 15 Jahre alter Datenträger ist, wäre sowieso schon alles 
 -=[ Sun May 19 04:50:33 AM CEST 2024 ]=-
     ==============================
 
+lsof nor sudo lsof shows any open files, though /proc/meminfo is Dirty and writes bakc very slow ...
+
+    ==============================
+-=[ Sun May 19 05:05:59 AM CEST 2024 ]=-
+    ==============================
+

@@ -56,3 +56,33 @@ also dann vielleicht doch zum dauer windel träger werden
 -=[ Sun May 19 05:19:40 AM CEST 2024 ]=-
     ==============================
 
+
+Lieeeeeeeebe Aquila Claudine Du @Uni Basel
+
+ich habe die Tagebücher von damals wieder gefunden
+
+marc@debian:~/hacker-notes-s24m05/tagebuch/2007er-Datentraeger$ diff -r 02-Tagebuch/2001/ ../2001/
+Only in ../2001/: ___.bak.txt
+Only in ../2001/: claudine_mail_traffic.bak.txt
+Only in 02-Tagebuch/2001/Dezember: 13.txt
+Only in 02-Tagebuch/2001/Dezember: 19.txt
+Only in 02-Tagebuch/2001/Dezember: 3.txt
+Only in 02-Tagebuch/2001/Dezember: 4.txt
+Only in 02-Tagebuch/2001/Dezember: 5.txt
+Only in 02-Tagebuch/2001/Dezember: 6.txt
+Only in 02-Tagebuch/2001/Dezember: 8.txt
+Only in ../2001/: Disketten
+Only in ../2001/: evaluator
+Only in ../2001/: kollegenVonClaudine.txt
+Only in ../2001/: Mark-Haldimann-hat-das-ca-1-jahr-vor-mosers-zigan-tod-gekocht-Screenshot from 2023-11-23 06-29-50.png
+Only in ../2001/: myfiles.txt
+Only in 02-Tagebuch/2001/November: 01.txt
+Only in 02-Tagebuch/2001/November: 26.txt
+Only in 02-Tagebuch/2001/November: 28.txt
+Only in 02-Tagebuch/2001/November: 30.txt
+Only in ../2001/: Screenshot from 2024-04-29 00-32-18.png
+Only in ../2001/: Wordcount.txt
+
+
+
+

@@ -117,3 +117,4 @@ Dann wären eigentlich die Zeilen 1 - 45 RELEVANT in diesem Dokument. Ich VERMUT
 -=[ Sun May 19 07:58:15 AM CEST 2024 ]=-
     ==============================
 
+WORD: [CTRL-P]

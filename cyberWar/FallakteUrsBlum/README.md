@@ -11,5 +11,5 @@ artiger SUBbie:
 
 das ist eigentlich genau das was gegen mich jetzt läuft, man wirft täglich irgendwelche cyber-Handgranaten zu mir in die RaumÜberwachung und Neuralink drein damit ich nicth mehr dazu komme auszuwerten
 
-
+das wäre aber weder die US-Army noch der NSA/CIA sondern die CH-Army
 

@@ -11,7 +11,8 @@ ich:
 2. weshalb sollte man einen kommunikationskanal zu marc jr lanodlt verwende, der nicht nachweisbar ist...
 3. nicth abschliessend
 
-dann wäre auch eine Spannender Informatik-Neuralink Frage, wie es die Schärrer rechtsanwälte geschafft habe, dass ich sie "freiwillig" immer in den verteiler nehme....
+dann wäre auch eine Spannender Informatik-Neuralink Frage, wie es die rohrer / Schärrer rechtsanwälte geschafft habe, dass ich sie "freiwillig" immer in den verteiler nehme....
+i 
 
 
 

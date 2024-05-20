@@ -12,7 +12,16 @@ ich:
 3. nicth abschliessend
 
 dann wäre auch eine Spannender Informatik-Neuralink Frage, wie es die rohrer / Schärrer rechtsanwälte geschafft habe, dass ich sie "freiwillig" immer in den verteiler nehme....
-i 
+
+dann wäre das wieder ein Minderungs-Design-Pattern:
+
+Sprengfallen die MUTMASSLCIH von Offizieren im umfeld der Pfadfinderabteilung adler aarau gelegt werden, dann blendet google/linkedin dominik brändli als "Militär Anwalt" ein, dann umgeleitet auf eine sandgrube und suchen bis gefunden wie die anwälte in meinen mailvertiler kommen.
+
+somit ALLENFALLS sinnvoll bei allen hostern der schweiz, sollten dort namen von anwaltsbüros oder ganze mails verschwinden gleihc alarm shclagen
+
+ich vermute die militär anwälte die morde, vergewaltigeungne, genozid und so weiter vertsuchen seit 1950 sind irgend über eine zentrtale verbiunden
+
+
 
 
 

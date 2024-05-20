@@ -27,3 +27,4 @@ schon noch komplett spekulativ und zu wenig indizien, aber die berühmte "Bränd
 
 Mon May 20 08:36:14 PM CEST 2024
 
+mail (selber git commit) noch nicht abgeschickt, solche dinge sollte man wirklcih nochmals drüber schlafen, nachdenken und doch auf rechtschreibung achten

@@ -21,7 +21,7 @@ somit ALLENFALLS sinnvoll bei allen hostern der schweiz, sollten dort namen von 
 
 ich vermute die militär anwälte die morde, vergewaltigeungne, genozid und so weiter vertsuchen seit 1950 sind irgend über eine zentrtale verbiunden
 
-
+schon noch komplett spekulativ und zu wenig indizien, aber die berühmte "Brändli Bombe" von der Confisserie brändi aarau, hätte dann wirst case wirklcih mti sprengfallen zu tun
 
 
 

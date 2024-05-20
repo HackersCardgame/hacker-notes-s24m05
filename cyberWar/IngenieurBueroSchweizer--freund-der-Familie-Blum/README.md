@@ -28,3 +28,10 @@ schon noch komplett spekulativ und zu wenig indizien, aber die berühmte "Bränd
 Mon May 20 08:36:14 PM CEST 2024
 
 mail (selber git commit) noch nicht abgeschickt, solche dinge sollte man wirklcih nochmals drüber schlafen, nachdenken und doch auf rechtschreibung achten
+
+
+Mon May 20 08:43:09 PM CEST 2024
+
+und deshalb ist oder war lange der abteilungsruf der pfadfinder adler aarau
+
+... cicken licken, bomben leggen bum bum bum ...

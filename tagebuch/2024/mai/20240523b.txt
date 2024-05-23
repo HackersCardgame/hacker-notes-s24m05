@@ -12,6 +12,8 @@ E) weitere möglichkeit wäre, dass zB. UPC mit einer /32 Route und dem vom Glü
 F) siehe unten [DEBIAN SUIZIDE] bzw. letzter git commit
 G) eine Software, Malware, Virus der sobald eine Partition als ist erstellt udn ok angezeigt wird diese wieder in die luft spregnt
   -> das könnte sowohl software, im betreibssystem als auch z.B hardware backdoors sein wie z.B. ein USB Port forward irgendwo hin über irgend einen zusätzlichen TOPSECRET funkkanal sein
+     -> also allenfalls im detail eine malware die alle superblocks und kopien von superblocks erstört, vermtulcih genau das was eine zensursoftware machen würde die keine zeit hat den ganzen datenträger zu durchwühlen
+     
   
       ==============================
 -=[ Thu May 23 02:27:53 PM CEST 2024 ]=-

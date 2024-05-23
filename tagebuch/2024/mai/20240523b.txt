@@ -16,7 +16,9 @@ G) eine Software, Malware, Virus der sobald eine Partition als ist erstellt udn 
 H) USB Storage Treiber könnte es auch sein (screenshot letzter git commit)
 
 
-Dann lässt das ding absichtlcih die partitionstabelle ganz als wäre alles i.O., aber löscht bei GPT Partitionen die sicherheitskopie, manipuliert aber die Magic nummer der partition selber, auch bei FAT, scheinbar aber nur auf SD-Karten, nciht auf sonstigem usb storage
+Dann lässt das ding absichtlcih die partitionstabelle ganz als wäre alles i.O., aber löscht bei GPT Partitionen die sicherheitskopie, manipuliert aber die Magic nummer der partition selber, auch bei FAT, scheinbar aber nur auf SD-Karten, nciht auf sonstigem usb storage, bzw. die sd karte ist an [1] so einem adapter des sich afaik als usb stick ausgibt ...
+
+[1] [SPREGNFALLENDROHUCH DURCH URS BLUM]
 
 
 dann wenn die Malware vorsätzlich beweismittel vernichten soll für straffällige kunden der zürich versicherung wäre so etwas wie code obfuscation auf layer 8 zu erwarten (layer8 = Mensch der auf dem stuhl hockt)

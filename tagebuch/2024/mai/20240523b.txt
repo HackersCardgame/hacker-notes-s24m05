@@ -1,0 +1,19 @@
+    ==============================
+-=[ Thu May 23 02:26:39 PM CEST 2024 ]=-
+    ==============================
+
+ich VERMUTE die SD-Karten Probelme
+
+A) die haben alle SD-Karten-Chip-Hersteller aufgekauft bzw. dort einen Terroristen der ein Backdoor in der Firmware drin lässt als Bugdoor getarnt
+B) USB-zu-SDkarten-Chips / weil nur intel kann ich ausschliessen
+C) das linux betriebssystem selber dass z.B. auf irgend allen systemen auf ein weiteres zensurnetzwerk hört
+D) da permanent körperverletzungen an mir / AutistenHelm verübt werden kann ich mir auch vorstellen, dass die mich mit dem epilepise-baseball-schläger auch in dinge die noch fehler haben driein steuern, hätte ich das entdekt und korrigiert würden die den richtigen lösungsweg mit erneuter körperverletztungen an mir verthindern
+E) weitere möglichkeit wäre, dass zB. UPC mit einer /32 Route und dem vom Glücksspiel-gesetz aufgebrochenen DNSSEC System nur ncoh infizierte Linux images bekomme
+F) siehe unten [DEBIAN SUIZIDE] bzw. letzter git commit
+G) eine Software, Malware, Virus der sobald eine Partition als ist erstellt udn ok angezeigt wird diese wieder in die luft spregnt
+  -> das könnte sowohl software, im betreibssystem als auch z.B hardware backdoors sein wie z.B. ein USB Port forward irgendwo hin über irgend einen zusätzlichen TOPSECRET funkkanal sein
+  
+      ==============================
+-=[ Thu May 23 02:27:53 PM CEST 2024 ]=-
+    ==============================
+

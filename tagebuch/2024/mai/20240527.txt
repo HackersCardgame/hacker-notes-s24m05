@@ -90,6 +90,8 @@ Computer (aber die haben nur die VM erwischt)
 Router
 ISP
 zweit ISP
+korperfunktionen und z.B. induziertes ICD10 G40.2
+
 
     ==============================
 -=[ Mon May 27 12:49:22 PM CEST 2024 ]=-

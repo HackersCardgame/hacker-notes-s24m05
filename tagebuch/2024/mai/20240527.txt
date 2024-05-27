@@ -86,11 +86,13 @@ URS BLUM Verrät: die Cyber-warrier accacemy und Cyber-Security Experten der CH-
     
 somit wäre es so etwas wie ein Group Policy orchestrator um malware auf einmal auszurollen
 
-Computer (aber die haben nur die VM erwischt)
-Router
-ISP
-zweit ISP
-korperfunktionen und z.B. induziertes ICD10 G40.2
+* Computer (aber die haben nur die VM erwischt)
+ -> über mutmasslich hostpoint mailserver 
+    (cybersprengfalle > > im ziel < < auf marc jr landolts rechner => restliche sprengfallen gegen marc jr landolt aktivieren)
+* Router
+* ISP
+* zweit ISP
+* korperfunktionen und z.B. induziertes ICD10 G40.2
 
 
     ==============================

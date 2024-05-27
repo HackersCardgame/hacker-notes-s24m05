@@ -146,3 +146,9 @@ also die ch-army  rollt cybersprengfallen über hostpoitn mailserver aus denn ic
 -=[ Mon May 27 01:08:15 PM CEST 2024 ]=-
     ==============================
 
+aber die hätten nur eine VM erwischt, nciht den host, sonst hätte ich das vermutlich nciht protokollieren können
+
+    ==============================
+-=[ Mon May 27 01:11:12 PM CEST 2024 ]=-
+    ==============================
+

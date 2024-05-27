@@ -152,3 +152,29 @@ aber die hätten nur eine VM erwischt, nciht den host, sonst hätte ich das verm
 -=[ Mon May 27 01:11:12 PM CEST 2024 ]=-
     ==============================
 
+jetzt erst ge-re-ge-bootet
+-> jemand wollte ja dass ich viel früher reboote -- komplett falsch FUER DISASSEMLBY
+
+virutelle Netzwerkkarte qemu => FAIL
+externe USB Netzwerkkarte 1 => FAIL
+externe USB Netzwerkkarte 2 => FAIL
+externe USB WiFi 1 => FAIL
+
+anderer VM Host => works
+
+dann erst reboot
+
+somit plausibelste Variante wäre, dass dsa eine malware ist die über hostpoitn übertragen wird
+
+die dann den host bzw dessen netzwerk-stack zerstört, aber nciht nur das sondern auch sich irgnedwie in QEMU festbeisst und selbst nach reboot der VM die das netzwerk saboteirt lässt, nach einem komplett neustart scheint das gaze qemu system wieder zu funktioneiren
+
+für kleinere: autisten helm hätte anziehen müssen, wenn ihr nicht so zwnagsneurotishc wie ich alle diese puzzle lösen möchtet, dann stimmt das mit dem "ein reboot ist immer gut" schon irgendwie
+
+    ==============================
+-=[ Mon May 27 01:28:13 PM CEST 2024 ]=-
+    ==============================
+
+
+
+
+

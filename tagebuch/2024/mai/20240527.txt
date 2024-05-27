@@ -83,4 +83,16 @@ URS BLUM Verrät: die Cyber-warrier accacemy und Cyber-Security Experten der CH-
     ==============================
 -=[ Mon May 27 12:47:06 PM CEST 2024 ]=-
     ==============================
+    
+somit wäre es so etwas wie ein Group Policy orchestrator um malware auf einmal auszurollen
+
+Computer (aber die haben nur die VM erwischt)
+Router
+ISP
+zweit ISP
+
+    ==============================
+-=[ Mon May 27 12:49:22 PM CEST 2024 ]=-
+    ==============================
+
 

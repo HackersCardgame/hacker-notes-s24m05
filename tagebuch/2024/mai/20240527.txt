@@ -168,7 +168,7 @@ somit plausibelste Variante wäre, dass dsa eine malware ist die über hostpoitn
 
 die dann den host bzw dessen netzwerk-stack zerstört, aber nciht nur das sondern auch sich irgnedwie in QEMU festbeisst und selbst nach reboot der VM die das netzwerk saboteirt lässt, nach einem komplett neustart scheint das gaze qemu system wieder zu funktioneiren
 
-für kleinere: autisten helm hätte anziehen müssen, wenn ihr nicht so zwnagsneurotishc wie ich alle diese puzzle lösen möchtet, dann stimmt das mit dem "ein reboot ist immer gut" schon irgendwie
+für kleinere: autisten helm hätte anziehen müssen, wenn ihr nicht so zwnagsneurotishc wie ich alle diese puzzle lösen möchtet, dann stimmt das mit dem "ein reboot tuuuuut immer gut" schon irgendwie
 
     ==============================
 -=[ Mon May 27 01:28:13 PM CEST 2024 ]=-

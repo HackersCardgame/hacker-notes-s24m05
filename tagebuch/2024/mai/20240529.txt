@@ -70,6 +70,13 @@ SUBJEKTIVE Meinung:
 ===================
 FALLS das FEDPOL das auch liest, sobald die CH-Army in der Nähe von Zivilisten Sendeinfrastruktur irgend welcher Art aufgestellt wird sollte man alle beteiligten in ein ZIVILEN Untersuchungshaft stecken und dann auf die Anklagebank mit den Offizieren
 
+Somit FALLS man das technisch verifizierne kann wäre es vermutlich gut, wenn man
+
+1. alle anderen Opfer insbeosondere die im Zeugenschutzprogram vor diesem Schachzug warnen könnte
+2. eine Meldestelle einrichtet für diesen Schachzug
+3. irgend Messequipment hat wo man den sender finden kann
+    -> aber am besten ncith von den Firmen die für die Armee arbeiten, weil die hätten eine Backdoor drin um deren
+       eigenen Sender und Täter zu tarnen
 
     ==============================
 -=[ Wed May 29 11:11:16 PM CEST 2024 ]=-

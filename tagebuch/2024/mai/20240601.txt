@@ -63,6 +63,8 @@ Ausserdem scheint in meiner Virtuellen Maschine wo ich den Telegram Messenger ei
 
 VERMUTLICH wäre es das einfachste für alle die ähnliches beobachten zur Zeit mal den PC/Handy neu zu starten. Ich selber mache das nicht, weil solnage das ding solche weniger netten dinge macht hilft mir das rauszufinden was/wer im detail das ist
 
+konkret: mausklicks und tasten (keystrokes) werden abgefangen 
+
     ==============================
 -=[ Sat Jun 1 05:06:55 PM CEST 2024 ]=-
     ==============================

@@ -69,3 +69,4 @@ konkret: mausklicks und tasten (keystrokes) werden abgefangen
 -=[ Sat Jun 1 05:06:55 PM CEST 2024 ]=-
     ==============================
 
+[CTRL-P]

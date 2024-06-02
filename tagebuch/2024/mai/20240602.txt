@@ -53,4 +53,5 @@ ich vermute der installer macht den computer auf, dann wird der PC-Computer ans 
 -=[ Sun Jun 2 07:26:01 PM CEST 2024 ]=-
     ==============================
 
+und bei der linux variante von easy tax können die sagen, sorry linux deine eigene schuld
 

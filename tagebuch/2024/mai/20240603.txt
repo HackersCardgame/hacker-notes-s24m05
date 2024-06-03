@@ -61,6 +61,23 @@ ein generischer schachzug oder in java eine "abstrakte klasse" oder ein "generis
 
 dann nach dem fertigt tippen wird das "macht es das einfach und bezichtigt mich" von der Sprachsynthese von Marc-Georg Landolt (1950) nachgesprochen, also auch wieder etwas was nciht so ganz nett ist
 
+also die Täter rauben dann schlussendlcih noch die Rethorischen Automatismen der Opfer und stellen sich dem Opfer gegenüber selber als Opfer dar
+
+marc@debian:~/hacker-notes-s24m05$ figlet Algi-Puzzle :
+    _    _       _       ____                _          
+   / \  | | __ _(_)     |  _ \ _   _ _______| | ___   _ 
+  / _ \ | |/ _` | |_____| |_) | | | |_  /_  / |/ _ \ (_)
+ / ___ \| | (_| | |_____|  __/| |_| |/ / / /| |  __/  _ 
+/_/   \_\_|\__, |_|     |_|    \__,_/___/___|_|\___| (_)
+           |___/  T ä t e r  -  O p f e r  -  Umkehr Natural Language Processing ALGORITHMUS 
+
+
+Also das wäre ein Natural Language Processing Algorithmus, welcher das automatisiert die Aussagen des Opfers auswertet, und dann mit der Sprachsynthese des Täters oder für den Täter Opfer-Täter umkehr macht.
+
+WORD: anybody good in Natural Laugnage Processing ?????
+
+
+
     ==============================
 -=[ Mon Jun 3 04:16:47 AM CEST 2024 ]=-
     ==============================

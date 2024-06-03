@@ -163,3 +163,9 @@ SEVERITY: annoyed
 -=[ Mon Jun 3 11:28:50 PM CEST 2024 ]=-
     ==============================
 
+dann hätte ich mal auf ein Rouge device getippt was auch den SSID Freifunk missbraucht
+
+    ==============================
+-=[ Mon Jun 3 11:35:41 PM CEST 2024 ]=-
+    ==============================
+

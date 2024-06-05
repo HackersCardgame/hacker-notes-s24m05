@@ -105,5 +105,52 @@ Dann scheint die Zürich Versichrung (m124 Karte) wieder ganz viele andere Straf
  
 [1] der Film findet eingentlich fast nur in der Telefonzelle statt wo ein Zivilist mit einem Sniper Gewehr auf den Menschen in der Telefonzelle zielt
 
+    ==============================
+-=[ Thu Jun 6 01:00:48 AM CEST 2024 ]=-
+    ==============================
+
+Unterdessen hat man die Lara wieder getriggert, gemäss ihr ist die nächste Zürich VersichrungsFiliale 3km von ihr entfernt
+
+dann wurde kurz nach dieser Notiz hier an meiner wange irgend etwas kleines gesprengt dass es auf der innenseite blutet, blutgeschmack merkt man
+
+dann der loop von dem HNO Arzt Brand oder Brendle: { wenn blut kommt im rachen dann ist es krebs }
+-> ich hatte da aber schon mit einem papiertuch die wangeninnenseite abgetupft, somit war mir klar, dass das gar nicht vom hals kommt
+
+dann habe ich ja seit jahren irgend ein implantat was in der rechten augenhöle schmerzen verursachen kann, das habe ich angefangen zu ignorenren, aber da gibt es scheinbar eine zweite stufe zu geben wo
+A) dann noch eine Kapsel aktivert wird die eine bindehaut entzundungviurs oder bakterium freisetzt
+B) einfach sonst etwas was das auge rot macht
+
+dann wird { hahaha terminator } übermittelt und das bild von greta tunberg auf einem auto wo ihr auge das rücklicht ist und wie terminator aus dem gleichnamigen film aussieht
+
+
+also eine induzierte Bindehaupt entzündung wäre auch eine Modifier Karte (TODO: MOD10 Karte machen) um das Traumata zu reaktivieren
+
+dies impliziert auch ziemlcih schuldbewustsein derjenigen ärzte die mir das angetan / eingebaut haben
+
+
+marc@debian:~/hacker-notes-s24m05/tagebuch/2024$ figlet FEDPOL :
+ _____ _____ ____  ____   ___  _         
+|  ___| ____|  _ \|  _ \ / _ \| |      _ 
+| |_  |  _| | | | | |_) | | | | |     (_)
+|  _| | |___| |_| |  __/| |_| | |___   _ 
+|_|   |_____|____/|_|    \___/|_____| (_)
+                                         
+
+somit meine SUBJEKTIVE Meinung:
+
+das FEDPOL sollte dieses Textdokument priorisieren, schauen ob gegen Cornelia Utz ermittelt wurde wegen harten drogen, und falls wären die entsprechenden Polizisten vermtulcih bemüht gewesen sämtliche alle diese akten verschwinden zu lassen nach cornelias tod
+
+Dann würde das jetzt auch jemand mit backdoor zugängen der Polizei mitlesen, und da wäre es dann allenfalls so, dass der Zugriff protokolliert wird wie das Beispiel von dem Polizsiten der den FR Präsidenten Sarcosy im Polizei Computer gegoogelt hat
+
+bzw. wüssten die das allenfalls dann würden die mit blackhat tools oder z.B. über die Militärsihce überwachugn auf dieses Dokment zugreifen wollen
+
+
+
+
+
+
+
+
+
 
 

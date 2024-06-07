@@ -12,3 +12,4 @@ ausserdem modemneustart wäre vermutlich ein eventtrigger der dann ein grössere
 -=[ Fri Jun 7 02:19:22 AM CEST 2024 ]=-
     ==============================
 
+nicht neu gestartet, DualWAN Router FTW

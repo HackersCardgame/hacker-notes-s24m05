@@ -2,3 +2,9 @@
 -=[ Mon Jun 10 04:45:03 AM CEST 2024 ]=-
     ==============================
 
+    ==============================
+-=[ Mon Jun 10 03:26:38 PM CEST 2024 ]=-
+    ==============================
+
+dann so eine frage, wenn man mit vhdl malware z.B. in RiscV oder ArM CPUs hardware backdoors mit funk und freqenzhopping mit nur 2500 Transistoren mehr drein würgen könnte, wer sagt, dass die ch. army nicht einen vertag hat mit intel etc. dass da dann genau militärsiche hardware bakcdoors der ch-army drin sind?
+

@@ -9,3 +9,15 @@ dann z.B. 2021 auf der Station KPP4, wo zwei ältere eher unfreundlcihe herren e
 [1] und ja mir ist bewusst dass Adrenochrome nciht ganz richtig ist, es wäre so etwas wie "psycholgosiches Adrenochrome" oder Psychologoische Lebensenergie
 
 Schlussendlich hätten die Opfer einfach nur das auf dem Netz gefunden und das war der "nearest Match" für die psycholgoishcen Schemrzen welche ihnen zugeführt werden oder wurden [Kurzzeit-Gedächtnis von marc jr landolt gelöscht worden]
+
+Königsfelden <-> Kurzzeitgedächtnis löschung nahc dem erwähnen des mädchen dass halb nakt in erwachsenen-windeln in die psychiatrie KPP4 gebracht wird ???
+
+
+Tue Jun 11 10:30:33 AM CEST 2024
+massiv viele körperfunktionen wie cyberwürgekette gegen marc jr landolt aktiviert worden, man will die Aussage verhinern [2]
+
+
+[2] sprachsample dominic Zschocke: die Psychiatrie ist die [3]
+
+[3] ICD10 G40.2
+

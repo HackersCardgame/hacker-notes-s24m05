@@ -17,7 +17,7 @@ Tue Jun 11 10:30:33 AM CEST 2024
 massiv viele körperfunktionen wie cyberwürgekette gegen marc jr landolt aktiviert worden, man will die Aussage verhinern [2]
 
 
-[2] sprachsample dominic Zschocke: die Psychiatrie ist die [3]
+[2] sprachsample dominic Zschocke: die Psychiatrie ist die [3] sicherheitsfunktion des staates wenn der staat selber mit gebaut hat <- wäre aber eine falsche spur, denn es wäre das militär neben der psychiatrie Königsfelden
 
 [3] ICD10 G40.2
 

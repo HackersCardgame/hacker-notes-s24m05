@@ -159,4 +159,15 @@ Vorerst SPEKULATION, prä-DEFCON3
 -=[ Fri Jun 14 05:54:25 PM CEST 2024 ]=-
     ==============================
 
+um es lustig auszudrücken formuliernen:
+
+Fuchsi notfall broadcast-system aktivieren
+loop
+{
+  strom is coming, jäger haben bereits angefangen mit ihren knarren zu reden
+}
+
+    ==============================
+-=[ Fri Jun 14 05:58:32 PM CEST 2024 ]=-
+    ==============================
 

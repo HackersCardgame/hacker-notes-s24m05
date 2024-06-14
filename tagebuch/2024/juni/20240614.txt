@@ -196,3 +196,9 @@ irgend eine imaginäre spinner stimme ins meines kopf gremium meiner seele die i
 -=[ Fri Jun 14 06:19:26 PM CEST 2024 ]=-
     ==============================
 
+das gute an landev's tagebüchern mit TXT files ist, dass das nicht so viel daten sind, somit kann man das auch problemlos über Amateurfunk AX.25 übermitteln, oder sogar Rauch-Morse-Zeichen, aber wie man jetzt mit Shanon-nyquist die Kanalbandbreite von Rauch-Morse-Kommunikations-Kanälen berechnet wüsste ich jetzt nciht
+
+    ==============================
+-=[ Fri Jun 14 06:22:56 PM CEST 2024 ]=-
+    ==============================
+

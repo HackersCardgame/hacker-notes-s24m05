@@ -273,3 +273,9 @@ dann instant melatonin metabolismus eingeschaltet worden, dann scheinbar als all
 -=[ Fri Jun 14 07:17:23 PM CEST 2024 ]=-
     ==============================
 
+dann habe ich submektiv das Gefühl, dass es einen Net-Split gibt (nicht nur IRC), und der wäre von Telegram Messenger Server selber, bzw. müsste es somit für jeden anbieter wie Facebook, Telegram ... eine art "jetzt Netsplit aktivieren" funktion bzw. Interface geben, und FALLS es da gibt gäbe es einen Zentralen Server / C&C der diese Funktion jeweils aktiviert
+
+    ==============================
+-=[ Fri Jun 14 07:31:23 PM CEST 2024 ]=-
+    ==============================
+

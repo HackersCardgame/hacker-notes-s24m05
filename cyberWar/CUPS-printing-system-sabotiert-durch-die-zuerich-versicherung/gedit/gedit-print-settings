@@ -1,0 +1,22 @@
+[Print Settings]
+page-set=all
+number-up=1
+resolution=600
+cups-job-sheets=none,none
+duplex=horizontal
+cups-job-priority=50
+cups-number-up=1
+resolution-x=600
+cover-before=none
+cups-Resolution=600x600dpi
+print-pages=ranges
+collate=false
+print-at-time=
+page-ranges=5-6
+reverse=false
+cover-after=none
+cups-Duplex=DuplexNoTumble
+print-at=now
+scale=100
+resolution-y=600
+printer=duplexer2

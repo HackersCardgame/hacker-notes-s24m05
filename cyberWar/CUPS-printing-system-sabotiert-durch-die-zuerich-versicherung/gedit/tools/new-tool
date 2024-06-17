@@ -1,0 +1,12 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=New tool
+# Input=nothing
+# Output=insert
+# Applicability=all
+# Save-files=nothing
+# Shortcut=<Primary><Shift>F5
+
+echo "    =============================="
+echo '-=[' $(date) ']=-'
+echo "    =============================="

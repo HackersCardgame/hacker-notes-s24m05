@@ -560,6 +560,14 @@ danach wird urs blum nciht merh über mich sprengfallen drohgungen abschicken k�
 Tue Jun 18 12:54:59 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+
+marc@debian:~/hacker-notes-s24m05$ figlet WICHTIG :
+__        _____ ____ _   _ _____ ___ ____     
+\ \      / /_ _/ ___| | | |_   _|_ _/ ___|  _ 
+ \ \ /\ / / | | |   | |_| | | |  | | |  _  (_)
+  \ V  V /  | | |___|  _  | | |  | | |_| |  _ 
+   \_/\_/  |___\____|_| |_| |_| |___\____| (_)
+
 also die regelmässigen sprengfallendrohungen seit dem Zeitungs-Artikel der Aargauer Zeitung "Sprengstoff auf dem Waffenplatz Aarau weggekommen" braucht urs blum um die zivilbevölkerung einzuschüchtern, in der Armee reden die offiziere glaub von einer "regelmässigen psychologishcen Auffrischungs-Spritzte"
 
 ohne diese Drohungen würden schon viel länger viel mehr leute viel mehr berechtigt kritische fragen stellen

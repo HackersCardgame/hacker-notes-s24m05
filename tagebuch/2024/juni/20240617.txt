@@ -13,8 +13,8 @@ pfisterers und blums haben alles personal in der psychiatrie so programmiert, da
 -=[ Mon Jun 17 06:17:10 AM CEST 2024 ]=-
     ==============================
 
-post modifikationen (nach git commit) <- also zugriffslogs bei Github beantragen
+post modifikationen (nach git commit) <- [2]
 
 [1] ("nur") Königsfelden
-
+[2] also zugriffslogs bei Github beantragen
 

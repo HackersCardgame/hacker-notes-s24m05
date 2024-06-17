@@ -21,3 +21,28 @@ FALLS diese übermittlungen verifiziert werden können würde ich dem FEDPOL vor
 -=[ Mon Jun 17 10:33:19 AM CEST 2024 ]=-
     ==============================
 
+
+Wimon härdi verrät nico wild: AGIS / GIS System sind dazu da die schulen einzumessen, damit man die [1] die Schulen besser wegesprenbgen können
+
+[1] also der Simon Härdi
+
+
+marc@debian:~/hacker-notes-s24m05$ figlet wichtiger 
+          _      _     _   _                 
+__      _(_) ___| |__ | |_(_) __ _  ___ _ __ 
+\ \ /\ / / |/ __| '_ \| __| |/ _` |/ _ \ '__|
+ \ V  V /| | (__| | | | |_| | (_| |  __/ |   
+  \_/\_/ |_|\___|_| |_|\__|_|\__, |\___|_|   
+                             |___/           
+
+da geht es darum, dass die CH-Army so access codes auf sicherheits-funktionen von Schülern, Lehrern und deren Neuralink epressen können, also brainjacking rubberhose attack
+
+    ==============================
+-=[ Mon Jun 17 10:40:36 AM CEST 2024 ]=-
+    ==============================
+
+
+
+
+
+

@@ -149,10 +149,12 @@ interface => neuralink FTT recognition zu windows Darstellungs Layer (model view
 
 mehrstufige druch-sabotage malware, zensursoftware, wie man es von einer rechtsverdreher versichrung erwarten würde...
 als pdf -> dann pdf drucken um zu schauen ob es wirklcihu cups und nciht gedit ist, pdf fehlt, bzw. wird vo nnautiolus unterschlagen
+bzw. cups hätte auch das pdf ncith gedruckt ....
 
     ==============================
 -=[ Mon Jun 17 07:17:44 AM CEST 2024 ]=-
     ==============================
 
+usb stick direkt zu drucker: drucker sagt "txt unbrauchbares format" ... 
 
 

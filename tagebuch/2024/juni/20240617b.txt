@@ -82,3 +82,9 @@ also die druck sabotage malware ist auf debian linux permanent, in Windows WSL2 
 -=[ Mon Jun 17 11:05:52 AM CEST 2024 ]=-
     ==============================
 
+ich setze jetzt mein linux neu auf und mache die windows updates...
+
+    ==============================
+-=[ Mon Jun 17 11:06:18 AM CEST 2024 ]=-
+    ==============================
+

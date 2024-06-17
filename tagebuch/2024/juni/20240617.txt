@@ -16,5 +16,5 @@ pfisterers und blums haben alles personal in der psychiatrie so programmiert, da
 post modifikationen (nach git commit) <- [2]
 
 [1] ("nur") Königsfelden
-[2] also zugriffslogs bei Github beantragen
+[2] also zugriffslogs bei Github beantragen <- ich: kann auch endpoint sein nach dem einbruch in marc jr landolts wohnung nach dem der Polizilst mathias berner mutmasslich schmiergelder von urs blum genommen hat
 

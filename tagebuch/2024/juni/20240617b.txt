@@ -143,3 +143,9 @@ somit kommt die Offiziersmesse um urs lbum ganz oben auf die rangliste für die 
 -=[ Mon Jun 17 12:18:42 PM CEST 2024 ]=-
     ==============================
 
+ich vermute das ist irgend in den gedit configs ODER in der gedit binary
+
+    ==============================
+-=[ Mon Jun 17 12:28:35 PM CEST 2024 ]=-
+    ==============================
+

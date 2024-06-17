@@ -135,6 +135,7 @@ dann happy birthday kleiner dominik blum, du warst ja damals erst ca 10 jahre, m
     ==============================
 
 interessanterweise geht jetzt [ctrl-p] wieder mal nicht...
+sogar auf beiden druckern ... cups zero-day???
 
     ==============================
 -=[ Mon Jun 17 07:12:14 AM CEST 2024 ]=-

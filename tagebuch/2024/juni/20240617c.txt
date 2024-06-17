@@ -610,6 +610,10 @@ So oder so sollte das FEDPOL die Herren ...
 * Simon Mühlebach
 * yvonne lammer
 * Dominik Brädli
+* Markus Belser
+* David Utz
+* Olvier Utz
+* Tino Abbiriga
 * philipp blum
 * Adrian Bühler
 * ... ab hier könnt ihr mit Mathe :: Graphen-Theoire das ganze Netzwerk errechnen

@@ -88,3 +88,11 @@ ich setze jetzt mein linux neu auf und mache die windows updates...
 -=[ Mon Jun 17 11:06:18 AM CEST 2024 ]=-
     ==============================
 
+YAYYYY, meine Lieblings-Beschäftigung an meinem geburtseltag: mir mein Linux und druck-System CUPS von Urs Blum wegsprengen lassen
+
+aber ist jetzt wieder neu aufgesetzt, aber geht immer noch nicht, also die hätten CUPS allenfalls in der distro selber sabotiert und ich mir das mit einem update eingefangen?
+
+    ==============================
+-=[ Mon Jun 17 12:03:41 PM CEST 2024 ]=-
+    ==============================
+

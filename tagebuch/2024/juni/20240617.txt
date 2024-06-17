@@ -157,4 +157,9 @@ bzw. cups hätte auch das pdf ncith gedruckt ....
 
 usb stick direkt zu drucker: drucker sagt "txt unbrauchbares format" ... 
 
+    ==============================
+-=[ Mon Jun 17 07:25:56 AM CEST 2024 ]=-
+    ==============================
+
+für die kleineren: dann einfach pc neu starten ist oft das einfachste, weil oft tun die die malware nur ins ram, um spätere forensische analyse zu verhindern, aber ich versuch das jetzt mal anders zu machen, ausserdem z.B. bei einem grossen mainframe einfach neu zu booten geht vielleihct auch nicht so super
 

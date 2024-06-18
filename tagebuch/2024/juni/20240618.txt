@@ -287,4 +287,6 @@ interessanterweise unterschlägt ChatGPT hier auch den Hinweis zu "medizinsichem
 Tue Jun 18 07:18:21 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann chatGPT behauptet immer, dass er "trainingsdaten von 2020 oder 2023" benutze, ich glaube das soll vorsätzlich verschleiern dass er (allenfalls auch auf einer parallelen infrastruktur) interaktives reinforcement learning betreibt, und dies eher im Auftrag von Wirtschaftskirminellen und straffälligen offizieren als im interesse der Bürger
 
+VERMUTUNG und INDIZIEN, aber ncoh keine richtigen beweise

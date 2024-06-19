@@ -130,9 +130,13 @@ p12: [DELETED] und der ruedi berger hat ihn als "so unverantwortlich wie sein so
 
 p13: also ruedi berger wollte den stefan mit schuldgewissen abrichten und gefügig und steuerbar machen
 
-p1 + (p2 -> p3 -> p5) -> p6 + p7 + p8 + p9 + p11 + (p12 -> p13)
+p14: und was allenfalls die eltern nicht mal gewusst hätten (architekt?)
 
-ADDENDUM p4 p10
+p1 + (p2 -> p3 -> p5) -> p6 + p7 + p8 + p9 + p11 + (p12 -> p13) => what could possibly go wrong
+
+hiese ALLENFALLS also die meisten armeen würde mit (geownten) jungen menschen versuchen andere armeen zu unterwandern, die gut steuerbar geamcht werden, und WENN Etwas auffliegen würde, dann würde der juge Mensch die ganze Rechung bezahlen müsse, und würde allenfalls sogar vor ein kriegsgericht gestellt udn diejenigen mit der 1990er agglo aarau netzwerk HackersCArdgame-Karte würden schön gedeckt getarnt bleiben
+
+ADDENDUM p4 p10 p14
 
 [1] was er auch dürfte, ich meine ich auch das Tagebuch der Annefrank gelesen die einen altersmässig älteren Jahrgang hat als ich, dann wäre das ja auch irgendwie gerecht
 

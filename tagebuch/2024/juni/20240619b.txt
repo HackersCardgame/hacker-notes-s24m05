@@ -343,6 +343,12 @@ Du sollst nicht ehebrehcen
 
 und für alle diese Dinge, wie Heirat die auch nicht umkehrbar sind, da muss man einfach zuvor wirklcih viel rechenen bis die etnscheidung akzeptiert wrid vom system
 
+
+dann in der Demoscene sind ja 4K Demos üblcih, also ein stück software was nur 4000 Zeichen braucht, ich VERMUTE, dass man auf einem globalen Mainframe wo man als Software schon zugriff auf alle daten hat, so einen algorithmus in weniger als 4K implementieren könnte
+
+also FALLS irgendwelhce menschen zu viel zeit haben udn so etwas mal in einer gameengien wie unity engine oder cry engine programmieren möchten, das wäre sicher auch eine spannende aufgabe
+
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Wed Jun 19 10:21:01 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

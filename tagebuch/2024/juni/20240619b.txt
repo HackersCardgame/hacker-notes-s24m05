@@ -272,6 +272,14 @@ auftragserfüllung: zeugen, opfer, juden, Autisten und Ausländer ermorden
  
 
 also somit wäre pfisterers totesliste praktisch 100% automatisiert ???
+--> dann FALLS das automatisiert wäre, wäre dann auch die Frage, wer denn kleien jungen in deutschland auf eine solche automatisierte Todesliste eingetragen hat => WICHTIG: FALLS ES SO EINE LISTE GIBT sollten die Behörden schauen dass sie diese finden so dass wir diese menschen schützen können
+
+dann FALLS OSINT Menschen da selber schauen, SOBALD ihr eine regel übertretet (z.B StGB143ff: eindringen in fremde computer systeme) würdet ihr dann vielleihct nicht sofort aber irgendwann dennoch zu blackhats gemacht werden
+
+A) bewilligung von jemand der das rechtsgültig enscheiden kann
+  + Absichern mit anwalt der euch ncith übern tisch zieht
+B) Hack, Leak dann grad selbstanzeige und Konsequenzen für sein Handeln tragen, weil nach selbstanzeige kann die Blackhat seite euch nciht mehr damit erpressen
+C) definitv nicht abschliessend, ich persönlcih würde immer versuche etwas wie A hin zu bekommen
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Wed Jun 19 09:58:45 PM CEST 2024

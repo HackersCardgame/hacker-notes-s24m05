@@ -337,7 +337,7 @@ Du sollst nciht töten
   => Mord ist ncith umkehrbar, also dort somit ein HARD RULESET dass das verhindern muss
   
 Du sollst nicht ehebrehcen
-  => nicht umkerhbar, HARD RULESET
+  => nicht umkerhbar, HARD RULESET	
   
 ...
 

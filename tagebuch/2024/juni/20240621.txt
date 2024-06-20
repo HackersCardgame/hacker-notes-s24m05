@@ -53,6 +53,7 @@ Die automatisierten Algorithmen werden vermutlich bei dieser Stelle anfangen Din
 
 paniq
 
+ADA EXPO 2001 KI, bewegung, schiesst, handlungsunfähgi und psychitisch
 
 Findings für andere Nerds:
 Escape Sequence welche direkt mit Flash-Chips (VHDL) redet, dort einen schreibschutz oder eine Zerstörung aktivieren kann und so sowohl den CPU als auch die Firmware in der SSD, SD-Karte oder USB Stick umwandert.

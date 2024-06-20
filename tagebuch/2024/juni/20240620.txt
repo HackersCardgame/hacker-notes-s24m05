@@ -253,7 +253,7 @@ mir fällt auf, dass bei all diesen datenträgern die schreibgeschiwndigkeit mas
 
 VORERST:
 
-passiertr bei zweitem stick nciht
+passiertr bei zweitem firsch-aus-original-packung-stick nicht
 
 also stick von linux nach windwos, allenfalls
 stick von windows nach linux vermutlich ganz schlechte idee, ausser für menschen die nihct relevant sind

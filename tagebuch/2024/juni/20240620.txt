@@ -163,11 +163,19 @@ Thu Jun 20 10:45:44 AM CEST 2024
 urs blum will mit dem verrat an mathias berner den debbuging vorgang sabotieren
 
 
-die malware vertuscht alle spuren, also löscht den befehl (cp -rvu) der das problem allenfalls verursacht hat, löscht die history, schliesst die registerkarte mit bash/gnome-termial damit alle spuren gelöscht wurden
+die malware vertuscht alle spuren, also löscht den befehl (cp -rvu) der das problem allenfalls verursacht hat, löscht die history, schliesst die registerkarte [1] mit bash/gnome-termial damit alle spuren gelöscht wurden
+
+[1] bzw. das neuralink steuert mich dazu, dass ich die registerkarte einfach nicht mehr sehe, selektive blindheit, vermutlcih wiesses rauschen im sehzentrum oder so etwas, und versetzt mich regelmässig in disso / ICD10 F44.x (also disso wäre auch eine art ein Breakpoint wie in Software um zu programmierne (IDE) aber für Menschen)
 
 -> dann wäre das auch ein indiz, dass die morddrohung von urs blum oder astrid blum kam mit caluine blums sprachsyntese
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Thu Jun 20 10:48:42 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+grad ncith mehr suizidal, also kann ich weiter fehlersuche betreiben, ich lasse jetzt das genau gleiche nochmals mit einem identischen aber andere stick laufen => der stick war zuvor an einem Windows11 Computer angeschlossen udn wäre somit bereits von windows indexiert oder sogar infiziert worden
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Jun 20 10:54:15 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 

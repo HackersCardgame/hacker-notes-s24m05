@@ -9,7 +9,19 @@ Subject: Der Sprengstoff und Kokain Ring von Urs Blum + Co.
 Basierend [1] auf mir legal vorliegenden Daten [2] muss ich davon ausgehen, dass der Herr Urs Blum, Offizier und Mitarbeiter der Zürich Versicherung seit [4] mindestens 1999 einen Sprengstoff und Kokain Ring [5] in Aarau betreibt. [e5] [6] [7]
 
 Herleitung:
+===========
 Ca. 2021 als man mich wieder mal mit einer missbräuchlichen Gefährdungsmeldung in die Psychiatrie verschleppt hat habe ich zufällig einen anderen Patienten gesehen, der auf der gemeinsamen Toilette beim Speise-Raum H7.2 irgend etwas vom WC-Deckel geschniefft hat.
+
+Da habe ich mich gefragt, hmmmm, dass man Kokain von einem Glas-Spielgel oder Glas-Tisch und so weit ich weiss üblicherweise mit einem Geldschein schniefft kennt man ja von Filmen, aber vom [8] WC Deckel ist ja irgendwie eklig.
+
+Das wäre somit eine "Metasprache" ein API oder ein GUI für Kokain-Konsumenten. Dabei ist RaumÜberwachung beteiligt [e5] und BEST GEHÜTETE GEHEIMNIS des Drogenrings. Technisch wäre es so etwas wie eine Multi-Factor Authentication:
+
+Faktor 1: Man muss Kokain besitzen, wo bei den Lieferungen oft auch Sprengstoff dabei ist
+Faktor 2: Man muss diese GEHEIMNISSE kennen [9]
+
+Mit dem Konsum des Kokains droht der Konsument mittelbar vorsätzlich auch immer mit dem Sprengstoff der bei den Lieferungen dabei ist und bekommt so Zugriff auf das System.
+
+Das wäre der Frontend, das GUI, API oder man könnte auch das poetsiche Wort aus den Büchern "Daemon" und "Darknet" von Daniel Suarez verwenden ein "Schamanisches Interface"
 
 
 [1] Auto-Renderer eingechaltet worden um das Mail mit mehr und zusätzlichen Informationen zu überladen und unkenntlich zu machen
@@ -22,8 +34,14 @@ Ca. 2021 als man mich wieder mal mit einer missbräuchlichen Gefährdungsmeldung
 
 [5] sprachsage von einer Aussage die Urs Blum 2001 getätigt hat: "mmmmmmh, der gute Stoff"
 
-[e5] technisch geht das mit 50€ Budget, API / GUI
+[e5] technisch geht das mit 50€ Budget, API / GUI: Towards general purpose sensing
 
 [6] Autoraser Rückseite, stellen sie mehr Fürrerschein-Entzüge aus, das ist eigentlich eine Verschlüsselte Morddrohung gegen mich
 
-[7] 
+[7] automated vertuschung, automated zensur, automated vernichtung von beweismkitteln
+     ->hochmut, user experience, kunden = täter bei laune halten
+
+[8] Sprachsample von Dr. Claduine Blum @ Uni Basel 2001: "Die Patrizia Stöcklin (Uni Basel) isst nur vom WC Deckel" [9]
+
+[9] Sprachsample von Gabriel Riela ca. 1999 "schissi teckel"
+

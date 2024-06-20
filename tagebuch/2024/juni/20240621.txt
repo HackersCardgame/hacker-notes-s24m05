@@ -30,7 +30,15 @@ Der Backend ist ein mutmasslich globales Cluster von Computern. Also so zu sagen
 * automatisiert Menschen dazu treibt mit Substanz-Missbrauch deren ihren NeoCortex zu schädigen
 * ...
 
-Das [10] Kokain soll dem Benutzer ein gutes Gefühl geben, eine tolle User Experience und ihm einreden dass er "die totale Kontrolle und Macht hat" [11]
+Das [10] Kokain soll dem Benutzer ein gutes Gefühl geben, eine tolle User Experience und ihm einreden dass er "die totale Kontrolle und Macht hat" [11].
+
+Ca. 1998 habe ich aus Effizenz-Gründen damals in meinem Geschäfts-Computer den User-Agent in der Registry von explorer.exe auf cmd.exe gewechselt, zwar hatten die Kokain-Süchtigen bei der ABB Flexiblen Automation AG vermutlich das Administratoren Passwort von irgendwo, aber mit nur Konsole Eingabe warn sie überfordert und dann hat deren NeuroEndokrines System auf Kokain schon ihnen eingeredet "Du bist super duper", aber als sie dann an einfachen DOS Befehlen gescheitert sind haben die vermutlich überbissen
+
+
+
+Findings für andere Nerds:
+Escape Sequence welche direkt mit Flash-Chips (VHDL) redet, dort einen schreibschutz oder eine Zerstörung aktivieren kann und so sowohl den CPU als auch die Firmware in der SSD, SD-Karte oder USB Stick umwandert.
+
 
 
 [1] Auto-Renderer eingechaltet worden um das Mail mit mehr und zusätzlichen Informationen zu überladen und unkenntlich zu machen

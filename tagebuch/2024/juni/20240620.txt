@@ -281,4 +281,21 @@ also da wäre ALLENFALLS bereits auf windows 11 (weil linux schon msuik software
 Thu Jun 20 12:02:05 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+also die sabotage-zensur-und-rechtsverdeher software müsste somit ein Interface haben wo ...
+
+* Hardware backdoors
+* Betriebssystem Backdoors
+* inhlate
+* aufträge
+* remote debugger
+* etwas wie neuralink
+* icd10 G40.2
+* icd10 F44.x (ist einfach ein breakpoint wie in einer IDE = Integrated Development Environment)
+* ...
+
+... zusammen koordineirt werden
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Jun 20 12:05:57 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 

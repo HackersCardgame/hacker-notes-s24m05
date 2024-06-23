@@ -173,5 +173,6 @@ Diagnose:
 mindestens Router zercybert
 -> endpoint nicht oder nur halb getroffen
 
+allenfalsl jemand der die wifi SSID "Freifunk" übersteuert, noch nciht 100% sicher
 
 

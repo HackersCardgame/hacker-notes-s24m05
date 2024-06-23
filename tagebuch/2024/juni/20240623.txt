@@ -155,3 +155,5 @@ Sun Jun 23 07:26:25 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 TELEGRAM VM zercybert worden, bzw. Netzwerkstack davon vermute ich
+
+auch internet glaub weg

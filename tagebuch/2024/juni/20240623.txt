@@ -169,5 +169,9 @@ Sun Jun 23 07:34:27 PM CEST 2024
 
 fehlersuche in progress.....
 
+Diagnose:
+mindestens Router zercybert
+-> endpoint nicht oder nur halb getroffen
+
 
 

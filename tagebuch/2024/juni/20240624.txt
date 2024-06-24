@@ -160,7 +160,14 @@ und die Eltern würden dann gar nicht mehr [2] als die eigentliche Ursache im Vo
 [2] schmerz peek rechte neocortex seite bei marc jr landolt eingeschaltet worden
 
 
-WICHTIGSTES:
+marc@debian:~/hacker-notes-s24m05$ figlet WICHTIGSTES
+__        _____ ____ _   _ _____ ___ ____ ____ _____ _____ ____  
+\ \      / /_ _/ ___| | | |_   _|_ _/ ___/ ___|_   _| ____/ ___| 
+ \ \ /\ / / | | |   | |_| | | |  | | |  _\___ \ | | |  _| \___ \ 
+  \ V  V /  | | |___|  _  | | |  | | |_| |___) || | | |___ ___) |
+   \_/\_/  |___\____|_| |_| |_| |___\____|____/ |_| |_____|____/ 
+                                                                 
+
 solche Dinge bei den jüngeren Generationen rechtzeitig erkennen, und rechtzeitig die richtigen Täter ans messer liefern, und somit verhindern, dass die kinder sich dann gegenseitig zerfleischen und deren Grundvertrauen komplett kaputt gemacht wird.
 
 und ohne grundvertrauen paranoid, immer leicht dissoziativ, immer leicht [LOCK] deaktiviertes Kritisches Denken, und somit einfacher fremdbestimmbar

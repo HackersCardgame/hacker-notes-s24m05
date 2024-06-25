@@ -19,6 +19,9 @@ C) Ich werde an Claudine's Geburtstag Suizid in Blums Garten begehen, ich hab ke
 [2] und wegen der erzeugten Hörigkeit [LOCK] und 2001 durch Blums ankonditionierte Suizid Trigger geht das auch nur wenn Claudine unser Treueversprechen gehalten hat
 
 
+wenn ich frei auswählen könnte, dann wäre es A), aber diese entscheidung treffe nicht ich
+-> und wer jetzt cypher aus Matrix 1 einblendet der mordet um zurück in die Matrix zu können, egal ob A B oder C, die gleichaltrigen Switch'es und Apoc's hatten so eher eine bessere Prognose als sonst
+
 marc@debian:~/hacker-notes-s24m05/mitigationRequired.mp4$ figlet WiCHTIGSTES
 __        ___  ____ _   _ _____ ___ ____ ____ _____ _____ ____  
 \ \      / (_)/ ___| | | |_   _|_ _/ ___/ ___|_   _| ____/ ___| 

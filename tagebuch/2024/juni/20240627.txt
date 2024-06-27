@@ -197,7 +197,19 @@ Thu Jun 27 05:42:36 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Jun 27 06:50:59 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann allenfalls ien DIFF meiner Neuralink-Firmware machen, es wurde in den bewegungsabläufen nur kleine änderungen gemacht, aber genau so, dass cih dann z.B. den kopf irgendwo anschlage
+
+das hiesse, die ICD10 G40.2 sende infrasturktur wurde von der scheizer armee bereits aufstellt und die warten nur bis die das aktivieren können weil "marc jr ist ein BeweigsTubeli (bewegungs-trottel)" und "hahaha selbstverschuldet"
+
+DIFF meiner Neuralink-Firmware, Sektion Bewegungsabläufe
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Jun 27 06:52:56 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
 

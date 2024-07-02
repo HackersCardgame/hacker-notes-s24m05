@@ -1,0 +1,30 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Jul 2 01:48:38 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Prämissen:
+
+p1: die Familie Blum, WalterMerz-Weg 6 hat die Wohnung für mich im Rombachtäli ausgesucht
+  -> so weit ich richtig informiert bin hat Astrid Blum den Zeitungsartikel der Claudine Blum gegeben
+     -> Claudine Blum hat den Zetiungsartikel dann mir gegeben
+     
+p2: Urs blum hatte zugriff auf die Überwachung in meiner Wohung
+
+p3: Urs blum hatte zugriff auf die Überwachung in meiner HackerSpace Garage
+
+p4: es ist naheliegend, dass der Herr Urs Blum zugriff auf die Überwachung im ganzen Rombachtäli hatte
+
+x1 => irrelevant für diese Berechnung
+x2 => irrelevant für diese Berechnung
+
+p5: Es ist mal ein minderjähriger Eriträer in meiner Garage zusammen gesackt wie wenn jemand einen Knopf gedrückt hätte
+
+
+
+
+
+Vollständigkeit
+x1: mindestens 7 Suizide im Rombachtäli, sicher auch mindestens ein Suizid bevor ich dort eingezogen bin, Der Hauswart vor der Frau Manic
+x2: Ruedie Müller habe jagd auf ausländer gemacht im Rombachtäli
+
+

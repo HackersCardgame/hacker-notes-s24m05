@@ -226,3 +226,27 @@ also vermutlich > müsste man < da auch noch bisschen länger drüber nachdenken
 Tue Jul 2 11:21:21 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+
+marc@debian:~/hacker-notes-s24m05$ figlet '<Polizei Bopard>'
+  ______       _ _         _   ____                            ___  
+ / /  _ \ ___ | (_)_______(_) | __ )  ___  _ __   __ _ _ __ __| \ \ 
+/ /| |_) / _ \| | |_  / _ \ | |  _ \ / _ \| '_ \ / _` | '__/ _` |\ \
+\ \|  __/ (_) | | |/ /  __/ | | |_) | (_) | |_) | (_| | | | (_| |/ /
+ \_\_|   \___/|_|_/___\___|_| |____/ \___/| .__/ \__,_|_|  \__,_/_/ 
+                                          |_|                       
+
+Wenn es stimmt, dass Selina Decker auch ein missbrauchsopfer war, und sie vom Kinderheim wochenlang im zimmer eingesperrt wurde, dann hiesse das, dass ihr gehirn-tumor allenfalls auch ein Menschenexperiment ist, und weil sie so richtig Shitty eltern hatte wäre sie danach freiwild gewesen
+
+somit allenfalls selbesvorgehen wie in der Sektion <FEDPOL> erwähnt ab zeile 175
+
+marc@debian:~/hacker-notes-s24m05$ figlet '</Polizei Bopard>'
+  __    ______       _ _         _   ____                            ___  
+ / /   / /  _ \ ___ | (_)_______(_) | __ )  ___  _ __   __ _ _ __ __| \ \ 
+/ /   / /| |_) / _ \| | |_  / _ \ | |  _ \ / _ \| '_ \ / _` | '__/ _` |\ \
+\ \  / / |  __/ (_) | | |/ /  __/ | | |_) | (_) | |_) | (_| | | | (_| |/ /
+ \_\/_/  |_|   \___/|_|_/___\___|_| |____/ \___/| .__/ \__,_|_|  \__,_/_/ 
+                                                |_|                       
+
+
+
+

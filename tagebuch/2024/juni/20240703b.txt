@@ -144,6 +144,20 @@ da hab ich keine Ahnung ob das FEDPOL überhautp die Patientenliste beantragen d
 Wed Jul 3 10:34:10 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann weiteres nerviges ding, schon bevor ich das hier protokolliert habe dass der tumbler grad GANZ ZUFÄLLIG JETZT KAPPUT GEGANGEN IST, NEIN WIRKLICH > zufall < hat es einen EventTrigger, dass jedes mal wenn ich am Tumbler vorbei gehe abgespielt wird
 
+loop
+{
+  "repariere mich"
+  "repariere mich"
+  "repariere mich"
+}
 
+hat das grad jemand mal genug access codes das in meiner RaumÜberwachung / Neuralink Firmware zu löschen das NERVT
+
+ausserdem weiteres indiz für VORSATZ
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 3 10:41:14 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 

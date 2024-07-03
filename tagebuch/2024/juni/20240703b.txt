@@ -230,3 +230,13 @@ Es ist nicht klar woher der Stick "nsa monitored device" gekommen ist, ABER die 
 1. so würden die Piraten als überwacher dastehen
 2. so würde man den Piarten einfacher Landesverrat unterschieben können
 3. DELETED
+
+dabei war zumindest mir als Nerd eigentlich klar, dass das "nsa monitored device" ANPRANGERNDER ZYNISMUS ist.
+
+Somit gäbe es ein Brain-CPU-Flag im Brain-CPU-Flag-Register (um gehinr mit CPU zu vergleichen) dass sagt
+
+[ ] istZynismus
+[x] istErnst
+
+
+

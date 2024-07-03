@@ -79,8 +79,9 @@ marc@debian:~/hacker-notes-s24m05$ figlet PRIO
 Gerne da ein gutes Informatiker, Phyisker und nicht straffällige 
 
 ADA Modul: Verteilung von BioTerrorismus Gefahrenquellen Weltweit [6,7]
+---------
 
--> und vor allem ein Team was so etwas mitigaten könnte
+-> und vor allem ein Team was so etwas MITIGATEN könnte
 
 logischerweise kann jeder Biologie-Student (selbst wenn er keinen Abshcluss hat) biowaffen herstellen oder in massen produzieren
 

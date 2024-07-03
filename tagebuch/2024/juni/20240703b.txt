@@ -365,13 +365,19 @@ EntryStrategy 2
 EntryStrategy 3
 
 körperverletzung an marc jr landolt verübt
+-> Forensik recherche verhindert mit körperverletzugnen die man marc jr landolt zufügt feige 
 
 ExitStrategy 1
-ExitStrategy 2
-ExitStrategy 3
+ExitStrategy 2 [2]
+ExitStrategy 3 [3]
 
 
 
+[2] alle 30Sek induzierte Epilepise aktiviert worden
+
+[3] versucht sihc marc jr landolt auf einen fehler zu konzentrieren und fehlersuche zu betreiben wird deren grösseres täternetzwerk aktiviert weil die wissen, dass wenn marc jr landolt konzentriert fehlersuche 
+
+1,2,3 => dann gelttungsssucht ausleben im namen von Härdis, dann exit strategie 1,2,3
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Wed Jul 3 08:01:31 PM CEST 2024
